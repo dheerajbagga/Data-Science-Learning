@@ -1,0 +1,3 @@
+How Relationships Differ From Joins
+
+https://help.tableau.com/current/public/desktop/en-us/datasource_relationships_learnmorepage.htm?source=productlink
